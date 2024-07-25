@@ -19,8 +19,12 @@ This assignment aims to familiarize you with the tools and configurations necess
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
-5. Install Package Managers:
-   If applicable, install package managers like pip (Python).
+5. Install Package Managers:![Screenshot 2024-06-18 110815](https://github.com/user-attachments/assets/c37bce8c-cd39-4bcf-a31f-d128a853922f)
+![Screenshot 2024-06-18 110815](https://github.com/user-attachments/assets/6ed59301-7de8-4eb4-904f-45c92bce41cc)
+![Screenshot 2024-06-18 113201](https://github.com/user-attachments/assets/8b6cbe22-ce28-416a-88ff-5fe377c15b2e)
+
+   If applicable, install package managers like pip[challenges faced  and  strategiies used to overcome  them.txt](https://github.com/user-attachments/files/16370569/challenges.faced.and.strategiies.used.to.overcome.them.txt)
+ (Python).
 
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
